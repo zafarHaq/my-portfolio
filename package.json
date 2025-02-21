@@ -9,11 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^10.0.0",
+    "@react-three/fiber": "^9.0.4",
     "autoprefixer": "^10.4.20",
     "framer-motion": "^12.4.6",
+    "gsap": "^3.12.7",
     "next": "15.1.7",
+    "postprocessing": "^6.36.7",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "three": "^0.173.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
